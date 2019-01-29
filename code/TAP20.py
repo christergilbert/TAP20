@@ -1,3 +1,5 @@
+"""This is a code about cars"""
+
 class Car:
     def __init__(self):
         self.type = ""
